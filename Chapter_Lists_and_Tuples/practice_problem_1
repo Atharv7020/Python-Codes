@@ -1,0 +1,9 @@
+#Make the list of fruits taken from user
+
+fruit1=input("Enter The Name of first fruit:")
+fruit2=input("Enter The Name of second fruit:")
+fruit3=input("Enter The Name of third fruit:")
+
+fruitlist=[fruit1,fruit2,fruit3]
+
+print(fruitlist)
